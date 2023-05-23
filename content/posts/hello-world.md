@@ -1,6 +1,8 @@
 ---
 title: 'Hello, World!'
 field1:
+  - field2: Hello 222
+    _template: example2
   - field1: Hello 111
     _template: example1
 ---
